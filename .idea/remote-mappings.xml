@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lb@10.0.9.66:22/home/lb/anaconda3/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/lb/project/explain_ids" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sshConfig://lb_49/home/lb/anaconda3/envs/NIDS/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/lb/project/explain_ids" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
