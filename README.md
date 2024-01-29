@@ -2,7 +2,7 @@
 ---
 ## Intro
 ---
-Official implementation of the paper "Unifying Feature-level and Rule-level Anomaly Explanations for Prototype-based Models on Data Streams" submitted to Information Processing Management.
+Official implementation of the paper "Unifying Feature-level and Rule-level Anomaly Explanations for Prototype-based Models on Data Streams" submitted to World Wide Web.
 
 An explanation framework for prototype-based anomaly detection on data streams is proposed to provide high-quality explanations. To the best of our knowledge, none of existing methods is designed to explain the detected instances from prototype-based models on streams.
 
